@@ -74,3 +74,25 @@ class daftarnilai():
     def keluar(self):
     
 ```     
+
+### Output Tambah_data:
+
+![Screenshot (706)](https://user-images.githubusercontent.com/115686359/210776507-a2474e79-a293-4c78-a662-166614c8d320.png)
+
+### Output Daftar_nilai:
+
+![Screenshot (707)](https://user-images.githubusercontent.com/115686359/210777076-24c583e9-5e0a-46b9-98f7-b88555ae1aaa.png)
+
+### Output Ubah_data:
+
+![Screenshot (708)](https://user-images.githubusercontent.com/115686359/210777388-5d29d18b-c37f-41f8-ac47-0636d7a374fa.png)
+
+### Output Cari_data:
+
+![Screenshot (709)](https://user-images.githubusercontent.com/115686359/210777567-e21e00f0-4457-4d7d-ab64-2922054bb941.png)
+
+### Output Hapus_data:
+
+![Screenshot (710)](https://user-images.githubusercontent.com/115686359/210777699-a356b089-4086-4ac3-82db-74a8024e8465.png)
+
+## Done!
