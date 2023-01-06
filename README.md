@@ -30,7 +30,7 @@ Sudah dibuat Package dan Module seperti diatas
 
 *input_data(yang meminta pengguna masukkan data)
 
-``main.py``` Berisi Program Utama
+```main.py``` Berisi Program Utama
 
 *Memanggil semua menu yang yang ada
 
